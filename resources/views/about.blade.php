@@ -9,7 +9,7 @@
             <p class="text-gray-600 leading-relaxed mb-6">
                 I am a 3rd-year Information Technology student passionate about building scalable web applications.
                 My journey in tech started with curiosity about how the web works, which led me to master
-                backend development with Laravel.
+                backend development with Laravel...
             </p>
 
             <h3 class="text-xl font-semibold mb-4 text-blue-600">Technical Skills</h3>
